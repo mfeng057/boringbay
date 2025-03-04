@@ -394,5 +394,26 @@
 		"name": "VxiN's Blog",
 		"description": "未寄出的信，未命名的诗",
 		"github_username": "chenxin-source"
+	},
+	"70": {
+		"domain": "www.57fy.cn",
+		"icon": "https://www.57fy.cn/favicon.ico",
+		"name": "枫韵の主页",
+		"description": "不忘初心，方得始终",
+		"github_username": "mfeng057"
+	},
+	"71": {
+		"domain": "app.57fy.cn",
+		"icon": "https://img.570578.xyz/i/2025/01/17/12svxcd.png",
+		"name": "枫韵视界app",
+		"description": "枫韵视界客户端",
+		"github_username": "mfeng057"
+	},
+	"72": {
+		"domain": "www.57fy.yop",
+		"icon": "https://img.570578.xyz/i/2025/01/17/12svxcd.png",
+		"name": "枫韵视界",
+		"description": "免费观影",
+		"github_username": "mfeng057"
 	}
 }
